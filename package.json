@@ -1,6 +1,6 @@
 {
   "name": "px2-loader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A px transform loader",
   "main": "index.js",
   "author": "Luke Pan <asahi0749@gmail.com>",
