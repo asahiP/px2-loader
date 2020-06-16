@@ -1,0 +1,23 @@
+{
+  "name": "px2-loader",
+  "version": "0.0.1",
+  "description": "A px transform loader",
+  "main": "index.js",
+  "author": "Luke Pan <asahi0749@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asahiP/px2-loader"
+  },
+  "keywords": [
+    "px",
+    "vw",
+    "rem",
+    "webpack-loader"
+  ],
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "loader-utils": "^2.0.0"
+  }
+}
